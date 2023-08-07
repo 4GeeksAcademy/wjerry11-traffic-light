@@ -1,0 +1,44 @@
+.traffic-light-stem {
+    background-color: black;
+    width: 20px;
+    height: 100px;
+    margin: auto;
+}
+
+.traffic-light-body {
+    background-color: black;
+    width: 100px;
+    height: 280px;
+    margin: auto;
+    border-radius: 20px;
+    padding: 20px 10px;
+}
+
+.red-light {
+background-color: red;
+width: 80px;
+height: 80px;
+border-radius: 100%;
+margin: auto;
+}
+
+
+.yellow-light { 
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    margin: auto;
+}
+
+.green-light {
+    background-color: green;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    margin: auto;
+}
+
+.selected {
+    box-shadow: -6px -7px 83px 31px rgba(241, 234, 234, 0.6);
+}
